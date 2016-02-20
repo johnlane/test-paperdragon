@@ -1,0 +1,6 @@
+*.un~
+*.swp
+/db
+/log
+/tmp
+/public/doc
