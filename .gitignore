@@ -4,3 +4,5 @@
 /log
 /tmp
 /public/doc
+public/images
+.byebug_history
